@@ -1,7 +1,7 @@
-Autor Original: [Nome do Autor Original]
-Adaptado por: [Seu Nome]
-Licença: [Tipo de Licença]
-Repositório: [Link do Repositório no GitHub]
+- Autor Original: [Nome do Autor Original]
+- Adaptado por: [Seu Nome]
+- Licença: [Tipo de Licença]
+- Repositório: [Link do Repositório no GitHub]
 
 Descrição
 
