@@ -1,3 +1,4 @@
+Programa em C++ de saída de notas de Caixa Eletrônico.
 - Autor Original: [Glauber Kiss de Souza]
 - Adaptado por: [Vítor Luciano Cardoso Noé]
 - Licença: [GNU GPL]
